@@ -1,0 +1,13 @@
+Attribution for Game Assets:
+
+Galeon Pirate_Shipwreck model by Skaldy, used under CC Attribution 3.0 license
+link: http://www.blendswap.com/blends/view/73625.
+license: https://creativecommons.org/licenses/by/3.0/
+
+BANGERS font used under the OFL (Open Font License)
+link: https://www.1001fonts.com/bangers-font.html
+license: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+Underwater River soundtrack by FSM Team, used under CC Attribution 3.0 license
+link: https://www.free-stock-music.com/underwater-river.html
+license: https://creativecommons.org/licenses/by/3.0/
